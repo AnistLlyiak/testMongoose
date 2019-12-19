@@ -11,6 +11,5 @@
     "mongoose": "^5.8.1"
   },
   "devDependencies": {
-    "mongoose-float": "^1.0.4"
   }
 }

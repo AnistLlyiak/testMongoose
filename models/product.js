@@ -1,5 +1,4 @@
 const Mongoose = require('mongoose');
-const float = require('mongoose-float')
 
 let Schema = Mongoose.Schema;
 
