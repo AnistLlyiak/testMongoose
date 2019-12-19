@@ -6,7 +6,7 @@ let Schema = Mongoose.Schema;
 let schema = new Schema({
     name : String,
     dateadd : Date,
-    price : float.float,
+    price : Number,
     stock : Number
 })
 
